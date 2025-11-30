@@ -1,0 +1,5 @@
+{
+  "name": "nomadbites",
+  "description": "Nomadbites is an AI-powered React app using Google's Gemini API to curate authentic food experiences. It provides personalized restaurant recommendations, review summaries, and daily food trails based on users' location, budget, and dietary preferences.",
+  "requestFramePermissions": []
+}
